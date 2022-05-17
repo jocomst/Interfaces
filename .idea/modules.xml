@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Averages/Averages.iml" filepath="$PROJECT_DIR$/Averages/Averages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceInABox/InterfaceInABox.iml" filepath="$PROJECT_DIR$/InterfaceInABox/InterfaceInABox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JokeManager/JokeManager.iml" filepath="$PROJECT_DIR$/JokeManager/JokeManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListAsAMethodParameter/ListAsAMethodParameter.iml" filepath="$PROJECT_DIR$/ListAsAMethodParameter/ListAsAMethodParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapAsAMethodParameter/MapAsAMethodParameter.iml" filepath="$PROJECT_DIR$/MapAsAMethodParameter/MapAsAMethodParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineShop/OnlineShop.iml" filepath="$PROJECT_DIR$/OnlineShop/OnlineShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetAsMethodParameter/SetAsMethodParameter.iml" filepath="$PROJECT_DIR$/SetAsMethodParameter/SetAsMethodParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleDictionary/SimpleDictionary.iml" filepath="$PROJECT_DIR$/SimpleDictionary/SimpleDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TacoBoxes/TacoBoxes.iml" filepath="$PROJECT_DIR$/TacoBoxes/TacoBoxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodoList/TodoList.iml" filepath="$PROJECT_DIR$/TodoList/TodoList.iml" />
+    </modules>
+  </component>
+</project>
